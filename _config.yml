@@ -32,7 +32,7 @@ project:
   cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
   #
   # Use a one-liner to describe your project
-  description:    和任何其他滑板不同，Stair-Rover是為了讓你從家門口滑向城市的另一端而設計。
+  description:    '和任何其他滑板不同，Stair-Rover是為了讓你從家門口滑向城市的另一端而設計。'
 #
 # 4. Your Twitter handle
 twitter_handle:   StairRover
