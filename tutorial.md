@@ -8,8 +8,6 @@ layout: default
 
 Kickstarter是全世界最大的創意計畫群眾集資平台。你現在就可以上Kickstarter預購你的Stair-Rover，支持我們的計畫。如果你對於Kickstarter的英文介面不熟悉，我們特別製作了一步一步的教學圖說，讓你一目了然、不用費心，只要按照下列步驟完成贊助手續，你就能成為全世界第一批擁有Stair-Rover的超級玩家！
 
-<iframe width="100%" height="480" src="http://www.kickstarter.com/projects/stair-rover/stair-rover-surf-the-city-with-an-innovative-longb/widget/video.html" frameborder="0"> </iframe>
-
 ---
 
 ### 第一步 : 在我們的計畫頁面上按下支持按鈕。
@@ -35,3 +33,5 @@ Kickstarter是全世界最大的創意計畫群眾集資平台。你現在就可
 ![](images/step5.jpg)
 
 ### [立即前往Kickstarter上的Stair-Rover計畫頁面](kck.st/12bbLkw)
+
+<iframe width="100%" height="480" src="http://www.kickstarter.com/projects/stair-rover/stair-rover-surf-the-city-with-an-innovative-longb/widget/video.html" frameborder="0"> </iframe>
