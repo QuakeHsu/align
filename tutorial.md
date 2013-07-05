@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <iframe width="640" height="480" src="http://www.kickstarter.com/projects/stair-rover/stair-rover-surf-the-city-with-an-innovative-longb/widget/video.html" frameborder="0"> </iframe>
 
 ### 如何使用Kickstarter?
