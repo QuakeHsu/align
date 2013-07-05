@@ -3,9 +3,8 @@ layout: default
 ---
 
 ### 如何在Kickstarter上支持Stair-Rover?
- 
-嘖嘖一直希望能作為台灣創意人的後援部隊，向全球喜歡創新、支持創意的朋友們募集資金。<br />
-Stair-Rover 是我們團隊首次和台灣設計師合作，在全球最大的群眾集資網站Kickstarter上一起推動的計畫，你在Kickstarter上所贊助的每一筆資金，都是對這些在海外努力的創意人們最強大的聲援！讓我們一起支持台灣創意人在國際舞台發光！
+
+請選擇[我知道怎麼在Kickstarter贊助計畫](kck.st/12bbLkw)直接前往頁面，或看我們下面的詳細介紹。
 
 Kickstarter是全世界最大的創意計畫群眾集資平台。你現在就可以上Kickstarter預購你的Stair-Rover，支持我們的計畫。如果你對於Kickstarter的英文介面不熟悉，我們特別製作了一步一步的教學圖說，讓你一目了然、不用費心，只要按照下列步驟完成贊助手續，你就能成為全世界第一批擁有Stair-Rover的超級玩家！
 
@@ -34,3 +33,5 @@ Kickstarter是全世界最大的創意計畫群眾集資平台。你現在就可
 謝謝你對Stair-Rover計畫的支持，也恭喜你成為全世界第一批擁有Stair-Rover的玩家。希望你能將我們的計劃分享給你的朋友，讓更多人一起加入催生Stair-Rover的行列！
 
 ![](images/step5.jpg)
+
+### [立即前往Kickstarter上的Stair-Rover計畫頁面](kck.st/12bbLkw)
