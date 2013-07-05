@@ -20,7 +20,7 @@ $(document).ready(function() {
   });
 
   $("#tweet").click(function() {
-    var sharer = "https://twitter.com/share?text=" + $(this).data("name") + " is now on Kickstarter!&via=" + $(this).data("via") + "&url=";
+    var sharer = "https://twitter.com/share?text=台灣設計" + $(this).data("name") + "現在在Kickstarter上募資中!&hashtags=zeczec,嘖嘖,stairrover,longboarding&via=" + $(this).data("via") + "&url=";
     window.open(sharer + $(this).data("url"), 'sharer', 'width=626,height=436,top=200,left=200');
   });
 
