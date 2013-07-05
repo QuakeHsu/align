@@ -7,4 +7,9 @@ Stair-Rover 是我們團隊首次和台灣設計師合作，在全球最大的�
 
 ---
 
-### Step 1 : Go to our project page, and back this project
+![](images/step1.jpg)
+![](images/step2.jpg)
+![](images/step3.jpg)
+![](images/step3-1.jpg)
+![](images/step4.jpg)
+![](images/step5.jpg)

@@ -148,6 +148,10 @@ body > .wrapper {
   -moz-animation: fadein 2.4s ease-in;
   animation: fadein 2.4s ease-in; }
 
+.wrapper img {
+  width: 100%;
+}
+
 .wrapper {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
