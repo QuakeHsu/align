@@ -1,8 +1,9 @@
 <iframe width="640" height="480" src="http://www.kickstarter.com/projects/stair-rover/stair-rover-surf-the-city-with-an-innovative-longb/widget/video.html" frameborder="0"> </iframe>
 
-### How to use Kickstarter?
+### 如何使用Kickstarter?
  
-Kickstarter is the world most popular crowdfunding platform for creative projects. Be the first group of people to order your Stair-Rover from Kickstarter.com. Your support will help our team take Stair-Rover from a working prototype to a scalable product. If you are not familiar with Kickstarter, please see our step-by-step guide on how to pledge below.
+嘖嘖一直希望能作為台灣創意人的後援部隊，向全球喜歡創新、支持創意的朋友們募集資金。
+Stair-Rover 是我們團隊首次和台灣設計師合作，在全球最大的群眾集資網站Kickstarter上一起推動的計畫，你在Kickstarter上所贊助的每一筆資金，都是對這些在海外努力的創意人們最強大的聲援！讓我們一起支持台灣創意人在國際舞台發光！
 
 ---
 
