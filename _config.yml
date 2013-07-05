@@ -1,4 +1,3 @@
-
 pygments:         true
 permalink:        pretty
 markdown:         rdiscount
@@ -18,7 +17,7 @@ theme:            basic
 website:          http://www.stair-rover.com/
 #
 # 2. URL of this page
-url:              http://[your_username].github.io/
+url:              http://labs.zeczec.com/stair-rover
 #
 # 3. About your kickstarter project
 project:
@@ -33,7 +32,7 @@ project:
   cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
   #
   # Use a one-liner to describe your project
-  description:    Stair-Rover is a longboard that glides down stairs with a blast.
+  description:    和任何其他滑板不同，Stair-Rover是為了讓你從家門口滑向城市的另一端而設計。
 #
 # 4. Your Twitter handle
 twitter_handle:   StairRover
@@ -43,7 +42,4 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  This is the Stair-Rover team greeting from London. <br />
-  First of all, thank you for signing up to our mailing list. <br />
-  Here's to tell you that our project is now live on Kickstarter,
-  and now we have to count on your support to not only back the project, but also share the love. ♥
+  希望你喜歡我們的Stair-Rover，我們非常需要你的幫助。如果你熱愛滑板，你可以到Kickstarter網站進行預購，成為你周圍最酷最搶眼的新星！如果你不玩滑板，我們仍然需要你的力量幫助我們散播出去，僅需幾秒鐘分享給你的朋友，你的每一個分享對我們都有莫大的幫助。
