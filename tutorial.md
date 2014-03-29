@@ -2,11 +2,11 @@
 layout: default
 ---
 
-### 如何在Kickstarter上支持Stair-Rover?
+### 如何在Kickstarter上支持Align?
 
-請選擇 [我知道怎麼在Kickstarter贊助計畫](http://kck.st/12bbLkw) 直接前往頁面，或看我們下面的詳細介紹。
+請選擇 [我知道怎麼在Kickstarter贊助計畫](http://kck.st/1i1DhKV) 直接前往頁面，或看我們下面的詳細介紹。
 
-Kickstarter是全世界最大的創意計畫群眾集資平台。你現在就可以上Kickstarter預購你的Stair-Rover，支持我們的計畫。如果你對於Kickstarter的英文介面不熟悉，我們特別製作了一步一步的教學圖說，讓你一目了然、不用費心，只要按照下列步驟完成贊助手續，你就能成為全世界第一批擁有Stair-Rover的超級玩家！
+Kickstarter是全世界最大的創意計畫群眾集資平台。你現在就可以上Kickstarter預購你的Align，支持我們的計畫。如果你對於Kickstarter的英文介面不熟悉，我們特別製作了一步一步的教學圖說，讓你一目了然、不用費心，只要按照下列步驟完成贊助手續，你就能成為全世界第一批擁有Align的收藏家！
 
 ---
 
@@ -14,7 +14,7 @@ Kickstarter是全世界最大的創意計畫群眾集資平台。你現在就可
 
 ![](images/step1.jpg)
 
-### 第二步 : 選擇你所想要的Stair-Roverc或是其他回饋，台灣朋友請記得選擇US only的優惠選項
+### 第二步 : 選擇你所想要的回饋。
 
 ![](images/step2.jpg)
 
@@ -28,10 +28,10 @@ Kickstarter是全世界最大的創意計畫群眾集資平台。你現在就可
 
 ![](images/step4.jpg)
 
-謝謝你對Stair-Rover計畫的支持，也恭喜你成為全世界第一批擁有Stair-Rover的玩家。希望你能將我們的計劃分享給你的朋友，讓更多人一起加入催生Stair-Rover的行列！
+謝謝你對Align計畫的支持，希望你能幫助我們將計畫分享給你的朋友！
 
 ![](images/step5.jpg)
 
-### [立即前往Kickstarter上的Stair-Rover計畫頁面](http://kck.st/12bbLkw)
+### [立即前往Kickstarter上的Align計畫頁面](http://kck.st/1i1DhKV)
 
 <iframe width="100%" height="480" src="http://www.kickstarter.com/projects/stair-rover/stair-rover-surf-the-city-with-an-innovative-longb/widget/video.html" frameborder="0"> </iframe>
