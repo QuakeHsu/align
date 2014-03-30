@@ -10,36 +10,36 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Stair-Rover
+title:            Align
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
-website:          http://www.stair-rover.com/
+website:          http://www.zeczec.com/
 #
 # 2. URL of this page
-url:              http://labs.zeczec.com/stair-rover/
+url:              http://labs.zeczec.com/align/
 #
 # 3. About your kickstarter project
 project:
   #
   # Name of the project
-  name:           Stair-Rover
+  name:           Align
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
-  url:            http://kck.st/12bbLkw
+  url:            http://kck.st/1i1DhKV
   #
   # URL of a cover photo of your project
   cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
   #
   # Use a one-liner to describe your project
-  description:    '和任何其他滑板不同，Stair-Rover是為了讓你從家門口滑向城市的另一端而設計。'
+  description:    '世界首創的錯位旋轉書寫筆。極簡外型下隱藏著匠心獨具的獨特機構，是支兼具功能與巧思的精巧書寫筆。'
 #
 # 4. Your Twitter handle
-twitter_handle:   StairRover
+twitter_handle:   
 #
 # 5. Your Google analytics ID (Optional)
 google_analytics: UA-28377356-1
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  希望你喜歡我們的Stair-Rover，我們非常需要你的幫助。如果你熱愛滑板，你可以到Kickstarter網站進行預購，成為你周圍最酷最搶眼的新星！如果你不玩滑板，我們仍然需要你的力量幫助我們散播出去，僅需幾秒鐘分享給你的朋友，你的每一個分享對我們都有莫大的幫助。
+  Beyond Object團隊是由年輕但是有經驗的設計師們組成。我們的理想是將有想法的產品推到市場，藉由像Kickstarter的群眾募資平台，讓設計師與消費者建立更深的連結。如果你喜歡Align的設計，希望你能花幾秒鐘把這個計畫分享給你的朋友，你的每一個分享對我們都有莫大的幫助。
